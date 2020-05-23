@@ -1,0 +1,13 @@
+client_config_backend: settings
+client_config:
+  client_id: 1007967902076-f2p1phqrvutfdeomsj3i9rgu0qutb5r5.apps.googleusercontent.com
+  client_secret: KbTnoWBjjvj38-HEXNmkpUO8
+
+save_credentials: True
+save_credentials_backend: file
+save_credentials_file: "../utils/creds/pydrive_auth_credentials.json"
+
+get_refresh_token: True
+
+oauth_scope:
+  - https://www.googleapis.com/auth/drive

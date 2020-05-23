@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amri-2020",
+  "private_key_id": "bdf7a0e0b2544ae6aec284eb32fabc798758dadf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoEjqn6eFM5TRQ\nP2mdn1nwgggq4vv9BtDrvh0gl+HQmWmuHU9lCUzPLE6ip2kDzPeJekBWpQg6G/Kv\nvQyRE48Jbgrr4vvS+L1Zy4dUJ85YES7AYezh9A7Hcs28R9q+xGR1jLR2v1x4kZp1\nl8JwdFVi0KmJdm7nD3eOlCpFkZrfC3yKAE/VKiEtP6iwhKaVf1ygtAdJTU0qH8Jo\ncQztc9MBswNXTJROJ4BZXidZV3iOEz0B+fWivfRDmoDFHyv1gK5iy6+O8+XjjHjF\nwjHdnF2ET/OURHqySAZqvEWWRO22EPWJVMGqg05OC4jpdfH78vVl5YrRScvHukqw\noSlq+VqXAgMBAAECggEASg7uRbsrCcUdjhbDJS9oZDAIBU3Ll6z/NkGpeAk0+cP/\n6zcDGxREAi4V4FpATeptUOjLnOJPg7t47rMw7GRf7NnOei6kpEvys7SZRx3bMLcx\nkJgV12LBeGU//qzy2IiVc66yfnjH+GDAXPyoMwEv9sDXU7kaGTqZhfwHvGvygEFK\nXpO0pfP9Wd+IQ0CRt6U8hTAavUGbx2gWSZpgtut7F+sbsjU+AWlmhVKqWFxNxfVu\nSZFcrToeAzLykE/qC6Xkrul1zU/Txl4tMWOsbJu5muX4EixlwjAq5ibclcq5VMDg\nlvPpzTNQy7VstqzIpFR7fXhbh3hcFdMQvdWVyPaFAQKBgQDbrmUzSd/6XhGJh9bm\njrXoVRg1yNDnpveTI3/9mk6UOrQlacAwQ36v0bZt3E3B5FmQnRAXLO8FQGBr6zK8\n0v/Gg7AeCS36b52P3u/SP8nl5SNrfIlS1z9z7sdLlvkaYaVwY/5aTGQLvRyQEG9f\neJyGLPnVziEnDZQH9EpfFaxWQQKBgQDD24jJKgA0+gHnCYmyaHy36bMLhPNjtm7A\ndgeJ02+xPviYD53e1Qg8mqalX7B/BlEwlBPr+5cOYfLPVuV7GzMNKvRO9Uvt6mLd\nxW3P3HE8QcuKjk214i3iOtZweryl0nWB/dA8apODm4ivchdVPzE0HJuPSPGvZhmm\nWesRVgZq1wKBgB5psWb9Vj3CIilpHe5DWZm1lil0CL/ZVLMRGhoQ78oDqob3cfz8\niyBqJxhkhHtQUrn7lIuw09JlTDQElryfdXuVJZ+y46OlKioN0iPIYvop09KApj5K\nwGUbbInhd9EYLaA2p7L2mm8pmjeznseX2guVVG0uIVbXwWOshVNOm9JBAoGAIJYu\nNAog7q+KEX6swlpQJelkOM5uEHESDEOXDX94Xe00P1iZ07FuJWc1wt4g54GNkJ+S\nkPjTMTlqxMSYedsUq2QyMdDuSS9uM6fdlXAABx6LVwpGM7TmHXXcp+pD6PMTSgWI\n2ASDdqoyG77H0w8oiJsZ5sUkMSKzsdHUIpZFixECgYEAli/KH+CywgsTxLrDtXK4\nAu6W4r78e8XQ387AXSomqzCCf/TpyVrN9b4ZV9/RypDlPzztT22swr5O4XHTqCsh\nc3z8BKi8C1z5ds6craELB93L+0CYV9tBuBXoSMzl3MYStrZNdHGeSpCyYk3w3qET\nX5dDJKTUkiNnPmoXPXcTa1c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amri-stt-tts@amri-2020.iam.gserviceaccount.com",
+  "client_id": "104505729622056695072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amri-stt-tts%40amri-2020.iam.gserviceaccount.com"
+}
